@@ -275,7 +275,7 @@ $(document).ready(function(){
             <div class="table-title">
                 <div class="row">
                     <div class="col-sm-6">
-						<h2>Manage <b>Employees</b></h2>
+						<h2>Manage OK <b>Employees</b></h2>
 					</div>
 					<div class="col-sm-6">
                                      
